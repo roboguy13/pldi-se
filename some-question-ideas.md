@@ -5,7 +5,7 @@ Some ideas for questions to ask on langdev.stackexchange.com:
 - How can I describe communication protocols at a type-level (*"What are session types?"*)?
 - What is "full abstraction" and why is it tricky for the PCF language (*this could motivate the game semantics questions*)?
 - How can I implement an interpreter where undefined variables are treated as "uninterpreted symbols"? (*"What is normalization-by-evaluation, aka NbE?"*)?
-- How can I determine properties of implementations of a function when I'm just given its type? (*"What is relational parametricity?"*)
+- How can I determine the possible implementations of a function when I'm just given its type? (*"What is relational parametricity?"*)
 - What are logical relations? They seem to be both a proof technique as well as a mathematical object studied in their own right.
 
 The linear types, session types and game semantics questions might all relate to each other.
