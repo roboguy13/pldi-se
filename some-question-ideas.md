@@ -9,6 +9,8 @@ Some ideas for questions to ask on langdev.stackexchange.com:
 - What are logical relations? They seem to be both a proof technique as well as a mathematical object studied in their own right. And both of those aspects are applied to programming language semantics.
 - Let's say I have a PL with multiple stages, maybe macro expansion and runtime. How do I ensure at compile-time that programs are "well-staged?" (*A specific instance of "What are modal types?"*)
 - What is "type soundness?" How do I know if my type system is sound? (*focus on syntactic type soundness, briefly describe semantic type soundness at the end*)
+- What are intersection types?
+- How can intersection types solve the full abstraction problem for lambda calculus?
 
 The linear types, session types and game semantics questions might all relate to each other.
 
