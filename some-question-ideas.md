@@ -12,6 +12,7 @@ Some ideas for questions to ask on langdev.stackexchange.com:
 - How can I build "abstractions" using only functions (*"How do I use the expressiveness of the untyped lambda calculus?"*)?
 - What are intersection types?
 - How can intersection types be used to give a *semantics* for *untyped* lambda calculus?
+- What is a bisimulation and how can it be used to relate two different operational semantics?
 
 The linear types, session types and game semantics questions might all relate to each other.
 
