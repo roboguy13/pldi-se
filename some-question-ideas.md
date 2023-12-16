@@ -1,5 +1,6 @@
 Some ideas for questions to ask on langdev.stackexchange.com:
 
+- How does "abstraction" relate to type checking? There *are* features in some dynamically typed languages that provide abstraction, but it is also clear that type checking can help enforce abstraction boundaries, etc. A quote from John Reynolds: "*Type structure is a syntactic discipline for enforcing levels of abstraction.*"
 - How is the meaning of a program like a board game (*"What is game semantics?"*)?
 - How can I track consumable resources at a type-level (*"What are linear types?"*)?
 - How can I describe communication protocols at a type-level (*"What are session types?"*)?
